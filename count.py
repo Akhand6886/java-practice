@@ -1,0 +1,1 @@
+# create a souce code to count line and number of words find no of if else etc  using file ..... techinique
